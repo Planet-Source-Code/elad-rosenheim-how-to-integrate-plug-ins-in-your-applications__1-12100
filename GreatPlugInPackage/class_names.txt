@@ -1,0 +1,7 @@
+#
+# Class names (ProgIds) of the plug-ins included 
+# in the GreatPlugInPackage
+#
+
+# Spell checker using MS Word
+GreatPlugInPackage.SpellChecker

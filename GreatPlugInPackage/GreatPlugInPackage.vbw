@@ -1,0 +1,5 @@
+SpellChecker = 44, 44, 428, 364, Z
+modCommon = 0, 0, 0, 0, C
+cRegistry = 0, 0, 0, 0, C
+frmConfigureSpellChecker = 0, 0, 0, 0, C, 88, 88, 472, 408, C
+modSpellChecker = 22, 22, 406, 342, C

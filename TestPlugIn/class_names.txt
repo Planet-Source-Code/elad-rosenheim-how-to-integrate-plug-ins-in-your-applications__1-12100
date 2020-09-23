@@ -1,0 +1,10 @@
+#
+# Class names (ProgIds) of the plug-ins included 
+# in the TestPlugIn package
+#
+
+# Show-Text-In-Message-Box
+TestPlugIn.PlugInterface1
+
+# The Grand Upper-Case Maker!
+TestPlugIn.PlugInterface2
