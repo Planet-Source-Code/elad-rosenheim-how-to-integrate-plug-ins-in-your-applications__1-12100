@@ -1,0 +1,6 @@
+frmMain = 22, 22, 406, 342, C, 22, 22, 406, 342, C
+cPlugIn = 66, 66, 560, 301, C
+frmPlugInsList = 132, 132, 516, 452, C, 66, 66, 450, 386, C
+modGlobals = 0, 0, 0, 0, C
+cPlugInHandler = 44, 44, 538, 279, C
+cRegistry = 0, 0, 0, 0, C
